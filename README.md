@@ -4,7 +4,7 @@ A list of projects to explore physics and creative coding.
 
 - Animations
   - [Differential Equations](differential-equation-animation/differential-equation-animator.ipynb)
-  - [Duffing Oscillator](differential-equation-animation/differential-equation-animation/the-duffing-oscillator.ipynb)
+  - [Duffing Oscillator](differential-equation-animation/the-duffing-oscillator.ipynb)
   - [Lissajous Curves](Lissajous-animation/Lissajous_Animation.ipynb)
  
 - Mathematics
